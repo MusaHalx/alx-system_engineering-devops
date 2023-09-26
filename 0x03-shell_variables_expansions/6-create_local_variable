@@ -1,0 +1,4 @@
+#!/bin/bash
+Name=BEST
+Value=School
+echo $Name $Value
